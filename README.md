@@ -1,5 +1,5 @@
 # YouTube Music Desktop App
-### Now with a Fresh new Codebase 😉
+### Now with a Fresh new Codebase 😉(also adjusted volume+/- shortcut parameters, makes fine adjustments more easier now.)
 
 ![YouTube Music Desktop App](.github/images/readme_main_app.png)
 
